@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.button {
+  border: none;
+
+  color: #7b8794;
+  font-family: Roboto;
+  font-size: 20px;
+  background: transparent;
+  margin-right: 15px;
+}
+
+.active {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+  font-weight: bold;
+}
